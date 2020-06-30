@@ -7,7 +7,7 @@ ACL集合
 
 * [ACL2019官方录用列表](https://www.aclweb.org/anthology/events/acl-2019/)
 
-* [ACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
+* [ACL2019代码集合](https://github.com/zhaoguangxiang/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
 
 [覃立波](http://ir.hit.edu.cn/~lbqin/) 于2020/6/27 (哈工大SCIR实验室在读博士) 
 
