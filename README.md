@@ -1,7 +1,7 @@
 
 [ACL2019 paper, citation and link to code](https://github.com/zhaoguangxiang/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
 
-Top cited opensourced ACL19 papers:
+Top-cited open-sourced ACL19 papers:
 #### Transformer-XL: Attentive Language Models beyond a Fixed-Length Context(citation 445)
 
 + 论文链接：https://www.aclweb.org/anthology/P19-1285.pdf
