@@ -2,7 +2,7 @@
 
 
 Top-cited open-sourced ACL19 papers:
-#### Transformer-XL: Attentive Language Models beyond a Fixed-Length Context(citation 445)
+#### Transformer-XL: Attentive Language Models beyond a Fixed-Length Context (citation 445)
 
 + 论文链接：https://www.aclweb.org/anthology/P19-1285.pdf
 
