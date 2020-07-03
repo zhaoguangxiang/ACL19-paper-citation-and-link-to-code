@@ -44,6 +44,13 @@ Top-cited open-sourced ACL19 papers:
 
 + 代码链接：https://github.com/serrano-s/attn-tests
 
+
+#### How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions (citation 61)
+
++ 论文链接：https://www.aclweb.org/anthology/P19-1070.pdf
+
++ 代码链接：https://github.com/codogogo/xling-eval
+
 #### Probing Neural Network Comprehension of Natural Language Arguments (citation 58)
 
 + 论文链接：https://www.aclweb.org/anthology/P19-1459.pdf
