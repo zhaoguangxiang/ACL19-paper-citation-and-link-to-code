@@ -1,6 +1,4 @@
 
-
-
 Top-cited open-sourced ACL19 papers:
 #### Transformer-XL: Attentive Language Models beyond a Fixed-Length Context (citation 445)
 
@@ -56,5 +54,54 @@ Top-cited open-sourced ACL19 papers:
 + 论文链接：https://www.aclweb.org/anthology/P19-1459.pdf
 
 + 代码链接：https://github.com/IKMLab/arct2
+
+#### COMET: Commonsense Transformers for Automatic Knowledge Graph Construction (citation 43)
+
++ 论文链接：https://www.aclweb.org/anthology/P19-1470.pdf
+
++ 代码链接：https://github.com/atcbosselut/comet-commonsense
+
+#### MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension (citation 42)
+
++ 论文链接：https://www.aclweb.org/anthology/P19-1485.pdf
+
++ 代码链接：https://github.com/alontalmor/multiqa
+
+#### Attention Guided Graph Convolutional Networks for Relation Extraction (citation 36)
+
+- 论文链接：https://www.aclweb.org/anthology/P19-1024.pdf
+
+- 代码链接：http://www.statnlp.org/research/information-extraction1
+
+#### Cognitive Graph for Multi-Hop Reading Comprehension at Scale (citation 36)
+
++ 论文链接：https://www.aclweb.org/anthology/P19-1259.pdf
+
++ 代码链接：https://github.com/THUDM/CogQA
+
+#### Compositional Questions Do Not Necessitate Multi-hop Reasoning (citation 34)
+
++ 论文链接：https://www.aclweb.org/anthology/P19-1416.pdf
+
++ 代码链接：https://github.com/shmsw25/single-hop-rc
+
+#### BAM! Born-Again Multi-Task Networks for Natural Language Understanding (citation 34)
+
++ 论文链接：https://www.aclweb.org/anthology/P19-1595.pdf
+
++ 代码链接：https://github.com/google-research/google-research/tree/master/bam
+
+#### Learning Deep Transformer Models for Machine Translation (citation 32)
+
+- 论文链接：https://www.aclweb.org/anthology/P19-1176.pdf
+
+- 代码链接：https://github.com/wangqiangneu/dlcl
+
+#### Head-Driven Phrase Structure Grammar Parsing on Penn Treebank (citation 32)
+
++ 论文链接：https://www.aclweb.org/anthology/P19-1230.pdf
+
++ 代码链接：https://github.com/DoodleJZ/HPSG-Neural-Parser
+
 
 The rest can be found in [ACL2019 paper, citation and link to code](https://github.com/zhaoguangxiang/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
